@@ -37,19 +37,6 @@ namespace NoDbAuthwOTP.Controllers
             return View();
         }
 
-        //[HttpPost]
-        //public ActionResult Login(string usersOtp)
-        //{
-        //    if (Session["OTP"] != null && Session["OTP"].ToString() == usersOtp)
-        //    {
-        //        Session["IsAuthenticated"] = true;
-        //        return RedirectToAction("HomePage");
-        //    }
-
-        //    ViewBag.Message = "Invalid OTP. Try again with the valid one.";
-        //    return View();
-        //}
-
         [HttpPost]
         public ActionResult Login(string usersOtp)
         {
