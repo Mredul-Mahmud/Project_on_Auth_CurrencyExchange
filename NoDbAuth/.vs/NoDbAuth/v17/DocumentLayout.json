@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|c:\\users\\user\\onedrive\\documents\\github\\nodbauth\\nodbauth\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\nodbauth\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|c:\\users\\user\\onedrive\\documents\\github\\nodbauth\\nodbauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|c:\\users\\user\\onedrive\\documents\\github\\nodbauth\\nodbauth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|c:\\users\\user\\onedrive\\documents\\github\\nodbauth\\nodbauth\\views\\homepage\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\nodbauth\\views\\homepage\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\views\\homepage\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|c:\\users\\user\\onedrive\\documents\\github\\nodbauth\\nodbauth\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|c:\\users\\user\\onedrive\\documents\\github\\project_on_auth_currencyexchange\\nodbauth\\nodbauth\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\nodbauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\nodbauth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18684C59-8358-4BB4-9017-347A7530B6CD}|NoDbAuth\\NoDbAuth.csproj|solutionrelative:nodbauth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserHome.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Views\\Homepage\\UserHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Views\\Homepage\\UserHome.cshtml",
               "RelativeDocumentMoniker": "NoDbAuth\\Views\\Homepage\\UserHome.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Views\\Homepage\\UserHome.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Views\\Homepage\\UserHome.cshtml",
               "RelativeToolTip": "NoDbAuth\\Views\\Homepage\\UserHome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -47,37 +47,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "NoDbAuth\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "NoDbAuth\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T15:47:13.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:47:13.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "NoDbAuth\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Controllers\\AuthController.cs",
               "RelativeToolTip": "NoDbAuth\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:13:10.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:13:10.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "NoDbAuth\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Views\\Auth\\Register.cshtml",
               "RelativeToolTip": "NoDbAuth\\Views\\Auth\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -86,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "HomepageController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Controllers\\HomepageController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Controllers\\HomepageController.cs",
               "RelativeDocumentMoniker": "NoDbAuth\\Controllers\\HomepageController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\NoDbAuth\\NoDbAuth\\Controllers\\HomepageController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuth\\NoDbAuth\\Controllers\\HomepageController.cs",
               "RelativeToolTip": "NoDbAuth\\Controllers\\HomepageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:20:55.282Z",
               "EditorCaption": ""
