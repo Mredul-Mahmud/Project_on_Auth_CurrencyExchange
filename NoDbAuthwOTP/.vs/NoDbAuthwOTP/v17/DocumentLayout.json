@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|solutionrelative:nodbauthwotp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|c:\\users\\user\\onedrive\\documents\\github\\project_on_auth_currencyexchange\\nodbauthwotp\\nodbauthwotp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuthwOTP\\nodbauthwotp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|solutionrelative:nodbauthwotp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|c:\\users\\user\\onedrive\\documents\\github\\project_on_auth_currencyexchange\\nodbauthwotp\\nodbauthwotp\\views\\auth\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuthwOTP\\nodbauthwotp\\views\\auth\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|solutionrelative:nodbauthwotp\\views\\auth\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|c:\\users\\user\\onedrive\\documents\\github\\project_on_auth_currencyexchange\\nodbauthwotp\\nodbauthwotp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuthwOTP\\nodbauthwotp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23F6C455-DD83-4989-ABC0-DB03C53D9B51}|NoDbAuthwOTP\\NoDbAuthwOTP.csproj|solutionrelative:nodbauthwotp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "NoDbAuthwOTP\\Views\\Auth\\HomePage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T17:27:17.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T17:27:17.526Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "NoDbAuthwOTP\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T17:24:31.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T17:24:31.127Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "NoDbAuthwOTP\\Views\\Auth\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T17:18:48.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T17:18:48.007Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "NoDbAuthwOTP\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\NoDbAuthwOTP\\NoDbAuthwOTP\\Controllers\\AuthController.cs",
               "RelativeToolTip": "NoDbAuthwOTP\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T16:21:49.74Z",
               "EditorCaption": ""
