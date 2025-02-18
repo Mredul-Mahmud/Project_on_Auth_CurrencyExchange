@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="CurrencyConverterApp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="app.js"></script>
+    <!-- Add Tailwind CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body ng-controller="CurrencyController" class="bg-gray-100 p-6 font-sans">
+    <!-- Text Above the Box -->
+    <h2 class="text-3xl font-bold text-center text-gray-800 mb-6">Currency Exchange Point</h2>
+
+    <div class="max-w-lg mx-auto bg-white p-6 rounded-xl shadow-lg">
+        <h1 class="text-2xl font-semibold text-center mb-6">Currency Converter</h1>
+
+        <div class="mb-4">
+            <label class="block text-lg font-medium text-gray-700">From:</label>
+            <select ng-model="fromCurrency" ng-options="currency for currency in currencies"
+                class="w-full mt-2 p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+            </select>
+        </div>
+
+        <div class="mb-4">
+            <label class="block text-lg font-medium text-gray-700">To:</label>
+            <select ng-model="toCurrency" ng-options="currency for currency in currencies"
+                class="w-full mt-2 p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+            </select>
+        </div>
+
+        <div class="mb-4">
+            <label class="block text-lg font-medium text-gray-700">Amount:</label>
+            <input type="number" ng-model="amount" class="w-full mt-2 p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" />
+        </div>
+
+        <div class="flex justify-center mt-6">
+            <button ng-click="convertCurrency()" class="px-6 py-2 bg-blue-500 text-white font-semibold rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                Convert
+            </button>
+        </div>
+
+        <h3 class="mt-6 text-xl font-medium text-gray-700 text-center">
+            Converted Amount: <span class="font-bold">{{ result }}</span>
+        </h3>
+    </div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\CurrencyExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF7C3EF-F21D-466A-86EC-635AC3FD6431}|CurrencyExchange\\CurrencyExchange.csproj|c:\\users\\user\\onedrive\\documents\\github\\project_on_auth_currencyexchange\\currencyexchange\\currencyexchange\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF7C3EF-F21D-466A-86EC-635AC3FD6431}|CurrencyExchange\\CurrencyExchange.csproj|solutionrelative:currencyexchange\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF7C3EF-F21D-466A-86EC-635AC3FD6431}|CurrencyExchange\\CurrencyExchange.csproj|c:\\users\\user\\onedrive\\documents\\github\\project_on_auth_currencyexchange\\currencyexchange\\currencyexchange\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF7C3EF-F21D-466A-86EC-635AC3FD6431}|CurrencyExchange\\CurrencyExchange.csproj|solutionrelative:currencyexchange\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\CurrencyExchange\\CurrencyExchange\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\CurrencyExchange\\CurrencyExchange\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CurrencyExchange\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:00:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\CurrencyExchange\\CurrencyExchange\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Project_on_Auth_CurrencyExchange\\CurrencyExchange\\CurrencyExchange\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "CurrencyExchange\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:58:34.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
