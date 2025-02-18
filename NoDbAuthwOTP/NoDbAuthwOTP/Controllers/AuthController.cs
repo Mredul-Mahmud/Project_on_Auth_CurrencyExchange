@@ -37,19 +37,36 @@ namespace NoDbAuthwOTP.Controllers
             return View();
         }
 
+        //[HttpPost]
+        //public ActionResult Login(string usersOtp)
+        //{
+        //    if (Session["OTP"] != null && Session["OTP"].ToString() == usersOtp)
+        //    {
+        //        Session["IsAuthenticated"] = true;
+        //        return RedirectToAction("HomePage");
+        //    }
+
+        //    ViewBag.Message = "Invalid OTP. Try again with the valid one.";
+        //    return View();
+        //}
+
         [HttpPost]
         public ActionResult Login(string usersOtp)
         {
-            if (Session["OTP"] != null && Session["OTP"].ToString() == usersOtp)
+            string savedOtp = Session["OTP"]?.ToString();  // Safely access OTP from session
+            string savedUser = Session["User"]?.ToString();  // Safely access user email
+
+            if (savedOtp != null && savedOtp == usersOtp)
             {
+                // OTP is valid, set authentication session
                 Session["IsAuthenticated"] = true;
                 return RedirectToAction("HomePage");
             }
 
+            // If OTP is invalid, show error message
             ViewBag.Message = "Invalid OTP. Try again with the valid one.";
             return View();
         }
-
         public ActionResult HomePage()
         {
             if (Session["IsAuthenticated"] == null || !(bool)Session["IsAuthenticated"])

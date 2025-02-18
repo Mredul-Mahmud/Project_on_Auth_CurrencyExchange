@@ -7,7 +7,8 @@
 <form method="post" action="/Auth/Login">
     <label>Enter OTP:</label><br />
     <input type="text" name="usersOtp" required /><br />
-    <input type="submit" class="btn btn-success" value="Login" />
+    <input type="submit" class="btn btn-success" value="Login" /><br />
+    <a href="/Auth/Register" class="btn btn-warning">Signup</a>
 </form>
 @if (ViewBag.Error != null)
 {
